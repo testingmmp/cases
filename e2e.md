@@ -1,4 +1,5 @@
 ##Little know Details on End to End Testing
+http://www.guru99.com/end-to-end-testing.html
 Unlike System Testing, End-to-End Testing not only validates the software system under test but also  checks it's integration with external interfaces. Hence, the name "End-to-End". The purpose of End-to-End Testing is to exercise a complete production-like scenario. Along with the software system, it also validates batch/data processing from other upstream/downstream systems.
 
 End to End Testing is usually executed after functional and system testing. It uses actual production like data and test environment to simulate real-time settings. End-to-End testing is also called Chain Testing
